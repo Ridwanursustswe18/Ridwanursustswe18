@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridwanur Rahman</h1>
-<h3 align="center">Problem Solver || Software Engineering Graduate with passion for back-end from Bangladesh</h3>
+<h3 align="center">Problem Solver || Software Engineering Graduate with passion for back-end engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanursustswe18&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanursustswe18" /> </p>
 
