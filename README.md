@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ridwanur196@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IYJlgW5yxaxQl3BFsZ4f6mQcIg8JuDGi/view?usp=sharing](https://drive.google.com/file/d/1IYJlgW5yxaxQl3BFsZ4f6mQcIg8JuDGi/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://bit.ly/3Y0D7ki)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
