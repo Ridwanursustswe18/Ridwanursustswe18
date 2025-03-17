@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwanursustswe18" alt="ridwanursustswe18" /></a> </p>
 
-- 🔭 I’m currently working on [url-shortener](https://github.com/Ridwanursustswe18/coding_challanges_url_shortener)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **node.js, Express.js, leetcode**
+- 💬 Ask me about **Node.js, Express.js, leetcode**
 
 - 📫 How to reach me **ridwanur196@gmail.com**
 
