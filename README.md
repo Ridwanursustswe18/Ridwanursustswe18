@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ridwanur196@gmail.com**
 
-- 📄 Know about my experiences [resume]([https://www.dropbox.com/scl/fi/4lzsivoxtneskgutmwq8b/Ridwanur_Rahman_resume.pdf?rlkey=zuo38s9dxnb554jovet5xuka7&st=f3b8m9xi&dl=0](https://www.dropbox.com/scl/fi/c9thg0ezr1humetzdtyoy/Ridwanur_Rahman_resume.pdf?rlkey=bv5mn4sabxz3l5smt6s3zs6yh&st=q96he9ty&dl=0))
+- 📄 Know about my experiences [resume](https://www.dropbox.com/scl/fi/c9thg0ezr1humetzdtyoy/Ridwanur_Rahman_resume.pdf?rlkey=bv5mn4sabxz3l5smt6s3zs6yh&st=y62q3w9y&dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
